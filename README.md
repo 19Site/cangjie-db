@@ -7,7 +7,7 @@ A JSON format file contain Cang Jie IME data
 $ npm install cangjie-db
 ```
 
-### How to use
+## How to use
 
 ```js
 const cangjieDb = require('cangjie-db');
