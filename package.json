@@ -1,0 +1,22 @@
+{
+  "name": "cangjie-db",
+  "version": "1.0.0",
+  "description": "A JSON format file contain Cang Jie IME data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19Site/cangjie-db.git"
+  },
+  "author": "19Site",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/19Site/cangjie-db/issues"
+  },
+  "homepage": "https://github.com/19Site/cangjie-db#readme",
+  "keywords": [
+    "cangjie"
+  ]
+}
